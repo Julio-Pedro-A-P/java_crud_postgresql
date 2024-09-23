@@ -83,7 +83,7 @@ public class VistaAlumno extends javax.swing.JFrame {
         });
 
         jButton1.setBackground(new java.awt.Color(204, 255, 255));
-        jButton1.setText("Guaradar");
+        jButton1.setText("Guardar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
@@ -158,7 +158,7 @@ public class VistaAlumno extends javax.swing.JFrame {
                 .addGap(98, 98, 98))
         );
 
-        jPanel2.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel2.setBackground(new java.awt.Color(102, 255, 204));
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Lista de Alumnos"));
 
         TbListaAlumno.setBackground(new java.awt.Color(51, 255, 51));
